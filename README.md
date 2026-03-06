@@ -1,6 +1,7 @@
 # SauceDemoPlaywright
 
 Playwright Test Automation Project covering several test cases for [SauceDemo.com](https://www.saucedemo.com)
+
 Please be aware that 1 test is failing due to a website bug where a user can proceed with the checkout without having any items in the cart.
 
 ## Setup Instructions
